@@ -1,0 +1,7 @@
+venv/
+windows_sim/
+.idea/
+model_old.py
+notes.txt
+driving_logs/
+IMG_folders/
